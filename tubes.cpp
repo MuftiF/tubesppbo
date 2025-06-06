@@ -7,7 +7,7 @@
 #include <cctype>
 using namespace std;
 
-int Saldo = 0;
+int Saldo = 1000;
 
 class DataNasabah {
 public:
